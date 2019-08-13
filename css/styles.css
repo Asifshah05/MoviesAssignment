@@ -1,0 +1,26 @@
+#headtag{
+	font-size: 28px;
+	letter-spacing: 1px;
+	font-family:'Lexend Deca', sans-serif;
+	color: #0083A7;
+	border: solid;
+	border-radius: 10px;
+	border-width: 0.5px;
+
+}
+
+h4{
+	color: #9AABF6 ;
+}
+
+p{
+	color: #9990F3  ;
+	font-size: 20px;
+}
+
+img{
+	height: 650px;
+	width: auto;
+}
+
+#movies img,#movie img{width:100%}@media (min-width:960px){#movies .col-md-3 .well{height:390px}#movies .col-md-3 img{height:240px}}
